@@ -15,11 +15,11 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "img/favicon.ico",
+      "src": "/img/favicon.ico",
       "sizes": "48x48 64x64"
     },
     {
-        "src": "img/icon-512x512.png",
+        "src": "/img/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
     }
