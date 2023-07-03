@@ -1,0 +1,33 @@
+{
+  "background_color": "#b06aff",
+  "description": "pwa 앱 만들어봅시다.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "pwa테스트",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "나도 앱 만든다",
+  "start_url": "https://jsohui.github.io/pwaTest/",
+  "theme_color": "#aa85ff",
+  "categories": [
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "lang": "ko",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ]
+}
