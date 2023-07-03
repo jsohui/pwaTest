@@ -19,7 +19,17 @@
       "sizes": "48x48 64x64"
     },
     {
-        "src": "/img/icon-512x512.png",
+        "src": "/img/icon/iso/128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },
+    {
+        "src": "/img/icon/iso/192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "/img/icon/iso/512.png",
         "sizes": "512x512",
         "type": "image/png"
     }
